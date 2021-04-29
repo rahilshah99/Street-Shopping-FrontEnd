@@ -1,0 +1,61 @@
+.product-header {
+  display: inline;
+  justify-content: flex-end;
+  width: 100%;
+  flex: 1 1;
+}
+
+.product-font {
+  font-size: 22px;
+  text-align: center;
+}
+
+.card {
+  width: 100% !important;
+  margin: 1.66rem;
+}
+
+.product-button {
+  float: right;
+}
+
+.characteristics-button {
+  margin-bottom: 10px !important;
+}
+
+.trash-icon {
+  color: red !important;
+}
+
+.save-characteristics-button {
+  margin-top: 30px !important;
+}
+.dashedline {
+  margin-top: 20px !important;
+  border: 1px dashed #d3d3d3 !important;
+}
+
+.simpleline {
+  border: 1px ridge #d3d3d3;
+}
+
+.msg-card {
+  width: 35% !important;
+  display: flex !important;
+  justify-content: center !important;
+  margin-left: 34% !important;
+}
+
+.countries-value-dropdown {
+  width: 50% !important;
+  height: 20% !important;
+  margin-top: 23px!important;
+}
+.countries{
+  width: 50% !important;
+  margin-bottom: 1px !important;
+}
+.postal-value{
+  width: 50% !important;
+  margin-bottom: 1px !important;
+}

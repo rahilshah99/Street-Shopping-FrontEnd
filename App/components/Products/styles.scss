@@ -1,0 +1,66 @@
+.product-header {
+  display: inline;
+  justify-content: flex-end;
+  width: 100%;
+  flex: 1 1;
+}
+
+.product-font {
+  font-size: 22px;
+  text-align: center;
+}
+
+.imageView {
+  width: 50px;
+  height: 50px;
+}
+
+.card {
+  width: 98% !important;
+  margin: 1.66rem;
+}
+
+.product-button {
+  float: right;
+}
+
+.characteristics-button {
+  margin-bottom: 10px !important;
+}
+
+.trash-icon {
+  color: red !important;
+}
+
+.save-characteristics-button {
+  margin-top: 30px !important;
+}
+.dashedline {
+  margin-top: 20px !important;
+  border: 1px dashed #d3d3d3 !important;
+}
+
+.simpleline {
+  border: 1px ridge #d3d3d3;
+}
+
+.ui.menu:first-child {
+  // margin-top: 0;
+  margin-bottom: 0 !important;
+}
+
+.characteristics-value-dropdown {
+  width: 49% !important;
+  height: 20%;
+  margin-top: 2%;
+}
+
+.accordion-ui {
+  width: 100% !important;
+  margin-bottom: 10px;
+}
+
+.back-btn {
+  float: right;
+  margin-bottom: 1% !important;
+}

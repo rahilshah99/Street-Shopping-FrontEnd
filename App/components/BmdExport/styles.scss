@@ -1,0 +1,69 @@
+.product-header {
+  display: inline;
+  justify-content: flex-end;
+  flex: 1 1;
+}
+
+.product-font {
+  font-size: 22px;
+  text-align: center;
+}
+
+.card {
+  width: 100% !important;
+  margin: 1.66rem;
+}
+
+.input_style {
+  display: flex;
+  align-items: center;
+  margin: 10px 10px 10px 0px;
+}
+.gkonto-field {
+  margin-right: 5px;
+}
+.country-dropdown {
+  .ui {
+    max-width: 14em;
+  }
+  .ui.dropdown > .text {
+    display: block;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+}
+
+.bmd-message {
+  margin: 2em 0;
+}
+
+.bmd-export-container {
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+}
+.box {
+  margin: 0 2em;
+  border: 1px solid;
+}
+.card-content {
+  min-width: 450px !important;
+  margin: 1em 1em !important;
+  min-height: 35em !important;
+}
+.card-content:last-child {
+  border-right: 1px solid #d4d4d5;
+}
+.align-center {
+  text-align: center;
+}
+.save-button {
+  margin: 2em 0 !important;
+}
+.error-text {
+  color: red;
+}
+.export-data{
+  margin: 10px;
+}
